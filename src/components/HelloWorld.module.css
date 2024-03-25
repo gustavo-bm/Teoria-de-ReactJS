@@ -1,0 +1,10 @@
+.helloWorldContainer {
+    background-color: blanchedalmond;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.helloWorldContent {
+    color: blueviolet;
+}
